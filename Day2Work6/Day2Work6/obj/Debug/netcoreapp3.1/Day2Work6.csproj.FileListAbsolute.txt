@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\bin\Debug\netcoreapp3.1\Day2Work6.exe
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\bin\Debug\netcoreapp3.1\Day2Work6.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\bin\Debug\netcoreapp3.1\Day2Work6.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\bin\Debug\netcoreapp3.1\Day2Work6.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\bin\Debug\netcoreapp3.1\Day2Work6.dll
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\bin\Debug\netcoreapp3.1\Day2Work6.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.dll
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Day2Work6\Day2Work6\obj\Debug\netcoreapp3.1\Day2Work6.genruntimeconfig.cache
