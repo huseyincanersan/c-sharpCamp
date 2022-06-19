@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.exe
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\bin\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.dll
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.pdb
+C:\Users\Can\Desktop\c-sharp kamp\ClassIntro\ClassIntro\obj\Debug\netcoreapp3.1\ClassIntro.genruntimeconfig.cache
