@@ -24,6 +24,7 @@ namespace Metotlar
             product3.Name = "Karpuz";
             product3.Price = 80;
             product3.Explanation = "Diyarbakir karpuzu";
+            
 
             Product[] products = new Product[] {product1,product2,product3 };
 
@@ -35,10 +36,12 @@ namespace Metotlar
             Console.WriteLine("---------Metotlar-----------");
 
             SepetManager sepetManager = new SepetManager();
-
+            //encapsulation -- kapsulleme
             sepetManager.Addsepet(product1);
             sepetManager.Addsepet(product2);
             sepetManager.Addsepet(product3);
+
+            
 
 
         }

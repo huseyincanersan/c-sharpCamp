@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\bin\Debug\netcoreapp3.1\Math.exe
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\bin\Debug\netcoreapp3.1\Math.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\bin\Debug\netcoreapp3.1\Math.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\bin\Debug\netcoreapp3.1\Math.dll
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\bin\Debug\netcoreapp3.1\Math.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.dll
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Math\obj\Debug\netcoreapp3.1\Math.genruntimeconfig.cache

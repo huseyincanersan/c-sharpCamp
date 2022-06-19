@@ -10,6 +10,7 @@ namespace Metotlar
         {
             Console.WriteLine("Sepete eklendi " + product.Explanation);
         }
-        
+
+       
     }
 }

@@ -15,7 +15,7 @@ namespace Metotlar
 
         public string Explanation { get; set; }
 
-
+        public int stock { get; set; }
 
 
 
