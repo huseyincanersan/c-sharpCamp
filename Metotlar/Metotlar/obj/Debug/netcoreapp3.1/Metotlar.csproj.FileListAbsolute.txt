@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.exe
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\bin\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.dll
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\Metotlar\obj\Debug\netcoreapp3.1\Metotlar.genruntimeconfig.cache
