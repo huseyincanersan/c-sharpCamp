@@ -1,0 +1,13 @@
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.exe
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\bin\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.dll
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.pdb
+C:\Users\Can\Desktop\c-sharp kamp\CampIntro\Donguler\obj\Debug\netcoreapp3.1\Donguler.genruntimeconfig.cache
