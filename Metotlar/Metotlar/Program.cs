@@ -12,6 +12,7 @@ namespace Metotlar
             product1.Name = "Elma";
             product1.Price = 15;
             product1.Explanation = "Amasya Elmasi";
+            product1.stock = 300;
 
             Product product2 = new Product();
             
