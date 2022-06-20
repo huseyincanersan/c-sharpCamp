@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.exe
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\bin\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.dll
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Metotlar\DegerVeReferansTipler\obj\Debug\netcoreapp3.1\DegerVeReferansTipler.genruntimeconfig.cache
