@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\bin\Debug\netcoreapp3.1\ClasssMetotDemo.exe
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\bin\Debug\netcoreapp3.1\ClasssMetotDemo.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\bin\Debug\netcoreapp3.1\ClasssMetotDemo.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\bin\Debug\netcoreapp3.1\ClasssMetotDemo.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\bin\Debug\netcoreapp3.1\ClasssMetotDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\bin\Debug\netcoreapp3.1\ClasssMetotDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\ClasssMetotDemo\ClasssMetotDemo\obj\Debug\netcoreapp3.1\ClasssMetotDemo.genruntimeconfig.cache
