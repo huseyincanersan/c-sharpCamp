@@ -1,0 +1,13 @@
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.exe
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\bin\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
