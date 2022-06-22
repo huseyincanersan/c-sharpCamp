@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\Collections\\Collections.csproj",
-      "projectName": "Collections",
-      "projectPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\Collections\\Collections.csproj",
+      "projectUniqueName": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
+      "projectName": "GenericsIntro",
+      "projectPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
       "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\Collections\\obj\\",
+      "outputPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

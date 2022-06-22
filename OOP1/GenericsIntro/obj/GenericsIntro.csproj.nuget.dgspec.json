@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\OOP1\\OOP1.csproj": {}
+    "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\GenericsIntro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\OOP1\\OOP1.csproj": {
+    "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\GenericsIntro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\OOP1\\OOP1.csproj",
-        "projectName": "OOP1",
-        "projectPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\OOP1\\OOP1.csproj",
+        "projectUniqueName": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
+        "projectName": "GenericsIntro",
+        "projectPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\GenericsIntro.csproj",
         "packagesPath": "C:\\Users\\Can\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\OOP1\\obj\\",
+        "outputPath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\OOP1\\GenericsIntro\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
