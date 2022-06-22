@@ -1,0 +1,14 @@
+C:\Users\Can\source\repos\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\Can\source\repos\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\Can\source\repos\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\Can\source\repos\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\Can\source\repos\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\Can\source\repos\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.AssemblyReference.cache
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\Can\source\repos\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
