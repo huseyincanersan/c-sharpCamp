@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache
