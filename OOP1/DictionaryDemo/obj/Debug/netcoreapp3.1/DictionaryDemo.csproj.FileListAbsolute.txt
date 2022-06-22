@@ -1,0 +1,13 @@
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.exe
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\bin\Debug\netcoreapp3.1\DictionaryDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\DictionaryDemo\obj\Debug\netcoreapp3.1\DictionaryDemo.genruntimeconfig.cache

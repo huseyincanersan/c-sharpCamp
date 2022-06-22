@@ -37,7 +37,10 @@ namespace GenericsDemo
         public A[] Items
         {
             get { return items;}
+            
         }
+
+
         
     }
 }

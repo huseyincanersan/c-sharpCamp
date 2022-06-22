@@ -11,3 +11,4 @@ C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictio
 C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.dll
 C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.pdb
 C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.genruntimeconfig.cache
+C:\Users\Can\Desktop\c-sharp kamp\OOP1\Dictionary\obj\Debug\netcoreapp3.1\Dictionary.csproj.AssemblyReference.cache
