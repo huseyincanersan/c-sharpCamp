@@ -1,0 +1,10 @@
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\bin\Debug\RecapDemo.exe.config
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\bin\Debug\RecapDemo.exe
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\bin\Debug\RecapDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\obj\Debug\RecapDemo.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\obj\Debug\RecapDemo.Form1.resources
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\obj\Debug\RecapDemo.Properties.Resources.resources
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\obj\Debug\RecapDemo.csproj.GenerateResource.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\obj\Debug\RecapDemo.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\obj\Debug\RecapDemo.exe
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\RecapDemo\obj\Debug\RecapDemo.pdb
