@@ -1,0 +1,14 @@
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.exe
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\bin\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.dll
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\Interfaces\obj\Debug\netcoreapp3.1\Interfaces.genruntimeconfig.cache
