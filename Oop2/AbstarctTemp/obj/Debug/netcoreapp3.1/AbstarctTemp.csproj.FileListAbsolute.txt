@@ -1,0 +1,13 @@
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\bin\Debug\netcoreapp3.1\AbstarctTemp.exe
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\bin\Debug\netcoreapp3.1\AbstarctTemp.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\bin\Debug\netcoreapp3.1\AbstarctTemp.runtimeconfig.json
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\bin\Debug\netcoreapp3.1\AbstarctTemp.runtimeconfig.dev.json
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\bin\Debug\netcoreapp3.1\AbstarctTemp.dll
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\bin\Debug\netcoreapp3.1\AbstarctTemp.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\obj\Debug\netcoreapp3.1\AbstarctTemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\obj\Debug\netcoreapp3.1\AbstarctTemp.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\obj\Debug\netcoreapp3.1\AbstarctTemp.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\obj\Debug\netcoreapp3.1\AbstarctTemp.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\obj\Debug\netcoreapp3.1\AbstarctTemp.dll
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\obj\Debug\netcoreapp3.1\AbstarctTemp.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Oop2\AbstarctTemp\obj\Debug\netcoreapp3.1\AbstarctTemp.genruntimeconfig.cache
