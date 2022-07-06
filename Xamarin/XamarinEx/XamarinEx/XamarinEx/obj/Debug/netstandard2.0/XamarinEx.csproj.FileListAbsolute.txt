@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\bin\Debug\netstandard2.0\XamarinEx.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\bin\Debug\netstandard2.0\XamarinEx.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\bin\Debug\netstandard2.0\XamarinEx.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamarinEx.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamarinEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamarinEx.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamarinEx.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamarinEx.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamarinEx.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\refint\XamarinEx.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\XamarinEx.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\XamarinEx\XamarinEx\obj\Debug\netstandard2.0\ref\XamarinEx.dll

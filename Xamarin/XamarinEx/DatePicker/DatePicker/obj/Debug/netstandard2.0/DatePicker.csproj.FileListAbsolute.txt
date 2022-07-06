@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\bin\Debug\netstandard2.0\DatePicker.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\bin\Debug\netstandard2.0\DatePicker.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\bin\Debug\netstandard2.0\DatePicker.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\DatePicker.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\DatePicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\DatePicker.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\DatePicker.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\DatePicker.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\DatePicker.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\refint\DatePicker.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\DatePicker.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\DatePicker\DatePicker\obj\Debug\netstandard2.0\ref\DatePicker.dll

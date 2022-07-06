@@ -1,0 +1,17 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\bin\Debug\netstandard2.0\TabuDemo.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\bin\Debug\netstandard2.0\TabuDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\bin\Debug\netstandard2.0\TabuDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\TabuDemo.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\TabuDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\TabuDemo.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\TabuDemo.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\TabuDemo.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\TabuDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\refint\TabuDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\TabuDemo.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\ref\TabuDemo.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\Views\LosserPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\TabuDemo\TabuDemo\obj\Debug\netstandard2.0\Views\WinnerPage.xaml.g.cs

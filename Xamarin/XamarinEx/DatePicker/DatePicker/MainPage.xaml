@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DatePicker.MainPage">
+
+    <StackLayout>
+
+
+        <DatePicker 
+            MinimumDate="01/01/1997" VerticalOptions="CenterAndExpand" 
+            MaximumDate="01/01/2021"
+            Format="dd/MM/yyyy"
+             x:Name="datepicker"></DatePicker>
+
+        <Label 
+            BindingContext="{x:Reference datepicker}"
+            Text="{Binding Date,StringFormat='{0:dd/MM/yyyy}'}" 
+            FontSize="48" FontAttributes="Bold" VerticalTextAlignment="Center" HorizontalTextAlignment="Center"
+            HorizontalOptions="Center"
+            VerticalOptions="CenterAndExpand"
+            
+            />
+
+
+
+
+    </StackLayout>
+
+</ContentPage>

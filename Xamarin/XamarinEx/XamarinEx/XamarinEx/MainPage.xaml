@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:constants="clr-namespace:XamarinEx.Services"
+             x:Class="XamarinEx.MainPage">
+
+    <StackLayout>
+        <Switch IsToggled="False" x:Name="btnToggle"
+                HorizontalOptions="Start"
+                VerticalOptions="CenterAndExpand"></Switch>
+        <Entry  IsPassword="{Binding Source={x:Reference btnToggle}, Path=IsToggled}" WidthRequest="200" HeightRequest="50"
+               HorizontalOptions="Start"
+               VerticalOptions="CenterAndExpand"></Entry>
+        <Label Text="{Binding Source={x:Static constants:Constants.Deger}}"
+               HorizontalOptions="Start"
+                VerticalOptions="CenterAndExpand"></Label>
+
+        <Button Text="Arttirma"
+                Clicked="Button_Clicked"
+                HorizontalOptions="Start"
+                VerticalOptions="CenterAndExpand"></Button>
+
+
+    </StackLayout>
+
+</ContentPage>

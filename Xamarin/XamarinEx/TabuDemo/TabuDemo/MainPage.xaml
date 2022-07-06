@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TabuDemo.MainPage">
+
+    <StackLayout>
+       
+            <Label Text="Kalan Hak Sayisi" 
+                   FontAttributes="Bold"
+                   FontSize="24"
+                   HorizontalOptions="Center" VerticalOptions="Start"  HorizontalTextAlignment="Center"
+                   TextColor="White" />
+        <Label Text="10" FontSize="24" HorizontalOptions="Center" VerticalOptions="Start"
+               x:Name="lblHak"/>
+
+        <BoxView HeightRequest="150" VerticalOptions="Center" HorizontalOptions="FillAndExpand" BackgroundColor="Aqua" x:Name="boxview" />
+
+        <Entry VerticalOptions="Center" HorizontalOptions="FillAndExpand" HorizontalTextAlignment="Center" x:Name="EntrySayi"/>
+
+        <Button Text="Tahmin Et" Clicked="Button_Clicked" VerticalOptions="Center" HorizontalOptions="Center"/>
+
+    </StackLayout>
+
+</ContentPage>
