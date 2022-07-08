@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\bin\Debug\netstandard2.0\RelativeLayoutProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\bin\Debug\netstandard2.0\RelativeLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\bin\Debug\netstandard2.0\RelativeLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\RelativeLayoutProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\RelativeLayoutProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\RelativeLayoutProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\RelativeLayoutProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\RelativeLayoutProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\RelativeLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\refint\RelativeLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\RelativeLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\RelativeLayoutProject\RelativeLayoutProject\obj\Debug\netstandard2.0\ref\RelativeLayoutProject.dll

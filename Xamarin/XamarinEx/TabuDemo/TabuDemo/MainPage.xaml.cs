@@ -55,6 +55,8 @@ namespace TabuDemo
                 boxview.BackgroundColor = Color.CornflowerBlue;
             }
 
+          
+          
             kalanHak -= 1;
 
             lblHak.Text = kalanHak.ToString();

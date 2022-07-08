@@ -9,7 +9,7 @@
                    FontAttributes="Bold"
                    FontSize="24"
                    HorizontalOptions="Center" VerticalOptions="Start"  HorizontalTextAlignment="Center"
-                   TextColor="White" />
+                   TextColor="DarkRed" />
         <Label Text="10" FontSize="24" HorizontalOptions="Center" VerticalOptions="Start"
                x:Name="lblHak"/>
 

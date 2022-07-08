@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\bin\Debug\netstandard2.0\StackLayoutProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\bin\Debug\netstandard2.0\StackLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\bin\Debug\netstandard2.0\StackLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\StackLayoutProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\StackLayoutProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\StackLayoutProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\StackLayoutProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\StackLayoutProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\StackLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\refint\StackLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\StackLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\StackLayoutProject\StackLayoutProject\obj\Debug\netstandard2.0\ref\StackLayoutProject.dll

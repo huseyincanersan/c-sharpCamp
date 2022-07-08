@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FlexLayoutProject.MainPage">
+
+    <StackLayout>
+        <StackLayout Orientation="Horizontal" VerticalOptions="Start">
+            <Button Text="button1"></Button>
+            <Button Text="button2"></Button>
+        </StackLayout>
+        <ScrollView VerticalOptions="FillAndExpand">
+
+
+            <FlexLayout Wrap="Wrap" Direction="Row" AlignContent="Start" JustifyContent="Start">
+
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Blue" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Yellow" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Red" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Orange" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Aqua" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="DarkGray" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Black" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Purple" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Pink" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Brown" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Chocolate" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Blue" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Yellow" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Red" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Orange" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Aqua" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="DarkGray" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Black" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Purple" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Pink" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Brown" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Chocolate" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Blue" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Yellow" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Red" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Orange" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Aqua" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="DarkGray" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Black" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Purple" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Pink" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Brown" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Chocolate" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Blue" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Yellow" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Red" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Orange" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Aqua" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="DarkGray" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Black" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Purple" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Pink" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Brown" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Chocolate" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Blue" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Yellow" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Red" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Orange" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Aqua" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="DarkGray" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Black" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Purple" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Pink" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Brown" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Chocolate" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Blue" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Yellow" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Red" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Orange" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Aqua" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="DarkGray" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Black" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Purple" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Pink" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Brown" Margin="5"></BoxView>
+                <BoxView WidthRequest="60" HeightRequest="60"
+                 BackgroundColor="Chocolate" Margin="5"></BoxView>
+
+
+            </FlexLayout>
+
+
+        </ScrollView>
+
+        <StackLayout Orientation="Horizontal" VerticalOptions="End">
+            <Button Text="button1"></Button>
+            <Button Text="button2"></Button>
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\bin\Debug\netstandard2.0\AbsoluteLayoutProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\bin\Debug\netstandard2.0\AbsoluteLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\bin\Debug\netstandard2.0\AbsoluteLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\AbsoluteLayoutProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\AbsoluteLayoutProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\AbsoluteLayoutProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\AbsoluteLayoutProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\AbsoluteLayoutProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\AbsoluteLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\refint\AbsoluteLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\AbsoluteLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\AbsoluteLayoutProject\AbsoluteLayoutProject\obj\Debug\netstandard2.0\ref\AbsoluteLayoutProject.dll

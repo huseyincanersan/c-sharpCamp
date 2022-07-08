@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "vzOifXK0bi3nzE6sqbyoAC/J42K/H4irSDxWKEYNeeiEzqf+78dJIt8OrfJ/d1aXDjcTs2s2/Gr0r2auyq7idA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\Xamarin\\XamarinEx\\AbsoluteLayoutProject\\AbsoluteLayoutProject\\AbsoluteLayoutProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

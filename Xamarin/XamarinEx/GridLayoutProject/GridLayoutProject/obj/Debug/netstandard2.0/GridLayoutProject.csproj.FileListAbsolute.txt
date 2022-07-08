@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\bin\Debug\netstandard2.0\GridLayoutProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\bin\Debug\netstandard2.0\GridLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\bin\Debug\netstandard2.0\GridLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\GridLayoutProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\GridLayoutProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\GridLayoutProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\GridLayoutProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\GridLayoutProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\GridLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\refint\GridLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\GridLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\GridLayoutProject\GridLayoutProject\obj\Debug\netstandard2.0\ref\GridLayoutProject.dll

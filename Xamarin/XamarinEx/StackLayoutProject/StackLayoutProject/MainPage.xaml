@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="StackLayoutProject.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="Center"> <!-- icerisine ekledigimiz nesneleri dikey ve yatay olarak hizzalayabilir -->
+
+        <BoxView WidthRequest="200" HeightRequest="200" HorizontalOptions="Center" BackgroundColor="SkyBlue"></BoxView>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Username" HorizontalOptions="Start" Margin="20"></Label>
+            <Entry HorizontalOptions="FillAndExpand"></Entry>
+        </StackLayout>
+        <StackLayout Orientation="Horizontal">
+            <Label Text="Password" HorizontalOptions="Start" Margin="20"></Label>
+            <Entry HorizontalOptions="FillAndExpand" IsPassword="True" ></Entry>
+        </StackLayout>
+
+
+    </StackLayout>
+
+</ContentPage>

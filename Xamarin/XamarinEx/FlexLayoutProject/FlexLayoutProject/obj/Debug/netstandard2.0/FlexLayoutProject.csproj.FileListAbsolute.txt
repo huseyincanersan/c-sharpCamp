@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\bin\Debug\netstandard2.0\FlexLayoutProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\bin\Debug\netstandard2.0\FlexLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\bin\Debug\netstandard2.0\FlexLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\FlexLayoutProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\FlexLayoutProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\FlexLayoutProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\FlexLayoutProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\FlexLayoutProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\FlexLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\refint\FlexLayoutProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\FlexLayoutProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\FlexLayoutProject\FlexLayoutProject\obj\Debug\netstandard2.0\ref\FlexLayoutProject.dll

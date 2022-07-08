@@ -10,7 +10,7 @@
             MinimumDate="01/01/1997" VerticalOptions="CenterAndExpand" 
             MaximumDate="01/01/2021"
             Format="dd/MM/yyyy"
-             x:Name="datepicker"></DatePicker>
+             x:Name="datepicker"/>
 
         <Label 
             BindingContext="{x:Reference datepicker}"
