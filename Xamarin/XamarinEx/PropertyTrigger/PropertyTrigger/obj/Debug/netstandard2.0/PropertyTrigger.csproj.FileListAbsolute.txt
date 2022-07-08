@@ -1,0 +1,17 @@
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\bin\Debug\netstandard2.0\PropertyTrigger.deps.json
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\bin\Debug\netstandard2.0\PropertyTrigger.dll
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\bin\Debug\netstandard2.0\PropertyTrigger.pdb
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\PropertyTrigger.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\PropertyTrigger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\PropertyTrigger.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\PropertyTrigger.AssemblyInfo.cs
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\PropertyTrigger.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\PropertyTrigger.dll
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\refint\PropertyTrigger.dll
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\PropertyTrigger.pdb
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\ref\PropertyTrigger.dll
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\HomePage.xaml.g.cs
+C:\Users\Can\Desktop\mvvmkurs dosyalari\PropertyTrigger\PropertyTrigger\PropertyTrigger\obj\Debug\netstandard2.0\RegisterPage.xaml.g.cs

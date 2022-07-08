@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PropertyTrigger.RegisterPage"
+             xmlns:trg="clr-namespace:PropertyTrigger.Triggers">
+
+    <StackLayout Orientation="Vertical"   BackgroundColor="MidnightBlue">
+
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"  >
+            <BoxView VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="200" HeightRequest="200" BackgroundColor="CornflowerBlue"  ></BoxView>
+
+            <Entry  Placeholder="Username" Text="" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue" x:Name="userName"/>
+            <Entry  Placeholder="Name"  TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"  />
+            <Entry  Placeholder="Surname"  TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"  />
+            <Entry  IsPassword="True" Placeholder="Password" Text="" TextColor="AliceBlue"  PlaceholderColor="CornflowerBlue" x:Name="password" >
+                <!--
+                    <Entry.Triggers>
+
+                    <EventTrigger Event="TextChanged">
+                        <trg:MyEntryTrigger Mybutton="{x:Reference btnSave}"></trg:MyEntryTrigger>
+                    </EventTrigger> 
+                                           
+                </Entry.Triggers>
+                 -->
+            </Entry>
+
+            <StackLayout>
+                <StackLayout  Orientation="Horizontal">
+
+                    <Switch x:Name="btnSwitch" IsToggled="False"></Switch>
+                    <Label Text="Kabul Ediyorum" TextColor="White" VerticalOptions="Center"></Label>
+
+                </StackLayout>
+
+                <Button Text="Sign Up"  Margin="-1" BackgroundColor="CornflowerBlue"  IsEnabled="True" x:Name="btnSave">
+                    <!--
+                        <Button.Triggers>
+                        <DataTrigger TargetType="Button" Binding="{Binding Source={x:Reference btnSwitch} , Path=IsToggled}" Value="True">
+
+                                <Setter Property="IsEnabled" Value="True" ></Setter>
+                            </DataTrigger>
+
+                        </Button.Triggers> -->
+
+                    <Button.Triggers>
+                        <MultiTrigger TargetType="Button">
+                            <MultiTrigger.Conditions>
+                                <BindingCondition Binding="{Binding Source={x:Reference userName}, Path=Text.Length}"
+                                                  Value="0"></BindingCondition>
+                                <BindingCondition Binding="{Binding Source={x:Reference password}, Path=Text.Length}"
+                                                  Value="0"></BindingCondition>
+                                <BindingCondition   Binding="{Binding Source={x:Reference btnSwitch}, Path=IsToggled}"
+                                                    Value="False"></BindingCondition>
+                            </MultiTrigger.Conditions>
+                            <Setter Property="IsEnabled" Value="False"></Setter>
+                        </MultiTrigger>
+                    </Button.Triggers>
+
+
+
+                </Button>
+
+            </StackLayout>
+
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

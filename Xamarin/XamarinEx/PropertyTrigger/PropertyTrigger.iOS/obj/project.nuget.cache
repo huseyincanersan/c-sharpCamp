@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OstAteu9WGYpgNVqv9XsmIuqZXru9Og90cQaEbZ0V5ktZtJxzflS0S4PSXT00pCiUK8ud7MLlroGw9sFK7H+/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\mvvmkurs dosyalari\\PropertyTrigger\\PropertyTrigger\\PropertyTrigger.iOS\\PropertyTrigger.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+  ],
+  "logs": []
+}
