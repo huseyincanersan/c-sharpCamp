@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "SPq1Iq4vCl4/62MPC8W7tKWqeaP7ZJ2uxmXIFhkVhoA6CPGBEbutUcyVC/WDIdUWpX2wgC8QZMeMQHaPm6Zb3Q==",
+  "dgSpecHash": "m7JRGHy3JfQ4lavJnN5yTjJufhOq0mPVfkSkWFCsbGm+6oZ3jhRkP0IXA4i6X0957V7PYkj5aa9sVxalkQt8vg==",
   "success": true,
   "projectFilePath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\Xamarin\\XamarinEx\\GridLayoutProject\\GridLayoutProject.Android\\GridLayoutProject.Android.csproj",
   "expectedPackageFiles": [
@@ -40,8 +40,8 @@
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.loader\\1.1.0.8\\xamarin.androidx.loader.1.1.0.8.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.localbroadcastmanager\\1.0.0.8\\xamarin.androidx.localbroadcastmanager.1.0.0.8.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.media\\1.4.0.1\\xamarin.androidx.media.1.4.0.1.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.migration\\1.0.8\\xamarin.androidx.migration.1.0.8.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.androidx.multidex\\2.0.1.5\\xamarin.androidx.multidex.2.0.1.5.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.migration\\1.0.8\\xamarin.androidx.migration.1.0.8.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.multidex\\2.0.1.5\\xamarin.androidx.multidex.2.0.1.5.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.navigation.common\\2.3.5.1\\xamarin.androidx.navigation.common.2.3.5.1.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.navigation.runtime\\2.3.5.1\\xamarin.androidx.navigation.runtime.2.3.5.1.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.androidx.navigation.ui\\2.3.5.1\\xamarin.androidx.navigation.ui.2.3.5.1.nupkg.sha512",
@@ -61,7 +61,7 @@
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512",
     "C:\\Users\\Can\\.nuget\\packages\\xamarin.google.android.material\\1.4.0.2\\xamarin.google.android.material.1.4.0.2.nupkg.sha512",
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.google.guava.listenablefuture\\1.0.0.2\\xamarin.google.guava.listenablefuture.1.0.0.2.nupkg.sha512"
   ],
   "logs": []
 }

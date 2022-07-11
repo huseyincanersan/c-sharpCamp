@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\bin\Debug\netstandard2.0\ImplicitStyleProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\bin\Debug\netstandard2.0\ImplicitStyleProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\bin\Debug\netstandard2.0\ImplicitStyleProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ImplicitStyleProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ImplicitStyleProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ImplicitStyleProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ImplicitStyleProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ImplicitStyleProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ImplicitStyleProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\refint\ImplicitStyleProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ImplicitStyleProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinEx\ImplicitStyleProject\ImplicitStyleProject\obj\Debug\netstandard2.0\ref\ImplicitStyleProject.dll

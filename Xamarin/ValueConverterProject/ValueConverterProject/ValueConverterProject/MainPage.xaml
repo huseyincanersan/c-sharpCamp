@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             xmlns:cnv="clr-namespace:ValueConverterProject.Converters"
+             x:Class="ValueConverterProject.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <cnv:KelvinConverter x:Key="kelvinConverter"></cnv:KelvinConverter>
+        </ResourceDictionary>
+        
+        
+    </ContentPage.Resources>
+    <StackLayout>
+        <StackLayout BackgroundColor="MidnightBlue" Orientation="Vertical" VerticalOptions="CenterAndExpand">
+
+
+            <Entry Text="" Placeholder="Enter Celcius Here"  TextColor="White" x:Name="celcius"></Entry>
+            <Label  Text="{Binding Source={x:Reference celcius},Path=Text, Converter={StaticResource kelvinConverter}} "  TextColor="AliceBlue" HeightRequest="200" FontAttributes="Bold" FontSize="36"  />
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

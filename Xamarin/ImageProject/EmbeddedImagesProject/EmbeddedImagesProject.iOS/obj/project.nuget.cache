@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wka+A35lvYCdsF7xtoxU/y2fAwnAiHSAXf4yzp/7ZBsJzf4db7VivQ3pW9iiXrYNo/0sfg/FpXvbOtwYP/4urQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\Xamarin\\ImageProject\\EmbeddedImagesProject\\EmbeddedImagesProject.iOS\\EmbeddedImagesProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

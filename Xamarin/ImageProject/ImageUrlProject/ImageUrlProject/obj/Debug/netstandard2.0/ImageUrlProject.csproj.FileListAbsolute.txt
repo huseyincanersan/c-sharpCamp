@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\bin\Debug\netstandard2.0\ImageUrlProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\bin\Debug\netstandard2.0\ImageUrlProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\bin\Debug\netstandard2.0\ImageUrlProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ImageUrlProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ImageUrlProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ImageUrlProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ImageUrlProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ImageUrlProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ImageUrlProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\refint\ImageUrlProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ImageUrlProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageUrlProject\ImageUrlProject\obj\Debug\netstandard2.0\ref\ImageUrlProject.dll

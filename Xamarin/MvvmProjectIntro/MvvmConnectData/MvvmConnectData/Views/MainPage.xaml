@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MvvmConnectData.Views.MainPage"
+             xmlns:vm="clr-namespace:MvvmConnectData.ViewModels">
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel>
+        </vm:MainPageViewModel>
+    </ContentPage.BindingContext>
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="MidnightBlue">
+            <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <Entry Placeholder="UserName" VerticalOptions="StartAndExpand" Text="{Binding UserName}"
+                       TextColor="White" FontSize="15" WidthRequest="200" PlaceholderColor="CornflowerBlue"></Entry>
+                <Entry Placeholder="PassWord" VerticalOptions="CenterAndExpand" Text="{Binding Password}"
+                       TextColor="White" FontSize="15" WidthRequest="200" PlaceholderColor="CornflowerBlue" ></Entry>
+                <Entry Placeholder="E-Mail" VerticalOptions="EndAndExpand" Text="{Binding Email}"
+                       TextColor="White" FontSize="15" WidthRequest="200" BackgroundColor="{Binding BgColor}" PlaceholderColor="CornflowerBlue" ></Entry>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

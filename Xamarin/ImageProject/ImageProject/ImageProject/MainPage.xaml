@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ImageProject.MainPage">
+
+    <StackLayout BackgroundColor="Yellow">
+        <Image x:Name="image1" VerticalOptions="StartAndExpand" HorizontalOptions="CenterAndExpand"
+               Aspect="AspectFill" WidthRequest="200" HeightRequest="200" BackgroundColor="blue" ></Image>
+
+        <Image x:Name="image2" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand"
+               Aspect="AspectFit" WidthRequest="200" HeightRequest="200"  BackgroundColor="blue"></Image>
+
+        <Image x:Name="image3" VerticalOptions="EndAndExpand" HorizontalOptions="CenterAndExpand"
+               Aspect="Fill" WidthRequest="200" HeightRequest="200" BackgroundColor="blue" ></Image>
+    </StackLayout>
+
+</ContentPage>

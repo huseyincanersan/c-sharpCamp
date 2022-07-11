@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ImplicitStyleProject.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <!--Hazir sablonlari tuttugumuz kutuphanedir-->
+            <Style TargetType="Entry">
+                <Setter Property="TextColor" Value="White"></Setter>
+                <Setter Property="BackgroundColor" Value="DeepSkyBlue"></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="HorizontalOptions" Value="FillAndExpand"></Setter>
+                <Setter Property="VerticalOptions" Value="Center"></Setter>
+                
+            </Style>
+
+            <Style TargetType="Label">
+                <Setter Property="TextColor" Value="White"></Setter>
+                <Setter Property="FontAttributes" Value="Bold"></Setter>
+                <Setter Property="HorizontalOptions" Value="Start"></Setter>
+                <Setter Property="VerticalOptions" Value="Center"></Setter>
+            </Style>
+
+        </ResourceDictionary>
+
+    </ContentPage.Resources>
+
+    <StackLayout BackgroundColor="MidnightBlue">
+
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+
+            <BoxView WidthRequest="200" HeightRequest="200" BackgroundColor="SkyBlue"></BoxView>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Usermame"></Label>
+                <Entry Text=""></Entry>
+            </StackLayout>
+
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Password"></Label>
+                <Entry Text=""></Entry>
+            </StackLayout>
+
+        </StackLayout>
+
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\bin\Debug\netstandard2.0\ImageProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\bin\Debug\netstandard2.0\ImageProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\bin\Debug\netstandard2.0\ImageProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ImageProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ImageProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ImageProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ImageProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ImageProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ImageProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\refint\ImageProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ImageProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\ImageProject\ImageProject\obj\Debug\netstandard2.0\ref\ImageProject.dll

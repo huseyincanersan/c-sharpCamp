@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\bin\Debug\netstandard2.0\ValueConverterProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\bin\Debug\netstandard2.0\ValueConverterProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\bin\Debug\netstandard2.0\ValueConverterProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ValueConverterProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ValueConverterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ValueConverterProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ValueConverterProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ValueConverterProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ValueConverterProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\refint\ValueConverterProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ValueConverterProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ValueConverterProject\ValueConverterProject\ValueConverterProject\obj\Debug\netstandard2.0\ref\ValueConverterProject.dll

@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\bin\Debug\netstandard2.0\MvvmConnectData.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\bin\Debug\netstandard2.0\MvvmConnectData.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\bin\Debug\netstandard2.0\MvvmConnectData.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\MvvmConnectData.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\MvvmConnectData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\MvvmConnectData.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\MvvmConnectData.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\MvvmConnectData.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\MvvmConnectData.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\refint\MvvmConnectData.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\MvvmConnectData.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MvvmConnectData\MvvmConnectData\obj\Debug\netstandard2.0\ref\MvvmConnectData.dll

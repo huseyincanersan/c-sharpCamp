@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ExpilicitProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ExpilicitProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ExpilicitProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ExpilicitProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ExpilicitProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ExpilicitProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\refint\ExpilicitProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ExpilicitProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\bin\Debug\netstandard2.0\ExpilicitProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\bin\Debug\netstandard2.0\ExpilicitProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\bin\Debug\netstandard2.0\ExpilicitProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ExpilicitProject\ExpilicitProject\ExpilicitProject\obj\Debug\netstandard2.0\ref\ExpilicitProject.dll

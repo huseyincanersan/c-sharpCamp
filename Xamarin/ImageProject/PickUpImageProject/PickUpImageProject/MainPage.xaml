@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PickUpImageProject.MainPage">
+
+    <StackLayout Orientation="Vertical" VerticalOptions="FillAndExpand" BackgroundColor="MidnightBlue">
+        <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+            <RelativeLayout VerticalOptions="Start" HorizontalOptions="Center" WidthRequest="200" HeightRequest="200">
+                <Image WidthRequest="200" HeightRequest="200" Aspect="AspectFit" x:Name="image"></Image>
+                <Button BackgroundColor="Transparent" Clicked="Button_Clicked" RelativeLayout.WidthConstraint="{ConstraintExpression Type=RelativeToParent, Property=Width,Factor=1}"
+                        RelativeLayout.HeightConstraint="{ConstraintExpression Type=RelativeToParent, Property=Height,Factor=1}"></Button>
+            </RelativeLayout>
+            
+            
+            
+            
+            <Entry Placeholder="UserName" x:Name="entryUserName" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue"></Entry>
+            <Entry Placeholder="Name" x:Name="entryName" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue"></Entry>
+            <Entry Placeholder="SurName" x:Name="entrySurName" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue"></Entry>
+            <Entry Placeholder="Password" x:Name="entryPassword" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue"></Entry>
+        </StackLayout>
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\bin\Debug\netstandard2.0\EmbeddedImagesProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\bin\Debug\netstandard2.0\EmbeddedImagesProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\bin\Debug\netstandard2.0\EmbeddedImagesProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\EmbeddedImagesProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\EmbeddedImagesProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\EmbeddedImagesProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\EmbeddedImagesProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\EmbeddedImagesProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\EmbeddedImagesProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\refint\EmbeddedImagesProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\EmbeddedImagesProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\ImageProject\EmbeddedImagesProject\EmbeddedImagesProject\obj\Debug\netstandard2.0\ref\EmbeddedImagesProject.dll

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="ExpilicitProject.MainPage">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style TargetType="Button" x:Key="circleButton">
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"></Setter>
+                <Setter Property="BorderColor" Value="DarkBlue"></Setter>
+                <Setter Property="BorderWidth" Value="5"></Setter>
+                <Setter Property="HeightRequest" Value="200"></Setter>
+                <Setter Property="WidthRequest" Value="200"></Setter>
+                <Setter Property="BackgroundColor" Value="LightBlue"></Setter>
+                <Setter Property="TextColor" Value="DarkBlue"></Setter>
+            </Style>
+
+            <Style TargetType="Button" x:Key="roundedButton">
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"></Setter>
+                <Setter Property="BorderColor" Value="DarkBlue"></Setter>
+                <Setter Property="BorderWidth" Value="5"></Setter>
+                <Setter Property="HeightRequest" Value="200"></Setter>
+                <Setter Property="WidthRequest" Value="200"></Setter>
+                <Setter Property="BackgroundColor" Value="LightBlue"></Setter>
+                <Setter Property="TextColor" Value="DarkBlue"></Setter>
+            </Style>
+
+            <Style TargetType="Button" x:Key="squareButton">
+                <Setter Property="HorizontalOptions" Value="CenterAndExpand"></Setter>
+                <Setter Property="BorderColor" Value="DarkBlue"></Setter>
+                <Setter Property="BorderWidth" Value="5"></Setter>
+                <Setter Property="HeightRequest" Value="200"></Setter>
+                <Setter Property="WidthRequest" Value="200"></Setter>
+                <Setter Property="BackgroundColor" Value="LightBlue"></Setter>
+                <Setter Property="TextColor" Value="DarkBlue"></Setter>
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    
+    
+    <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+        <Button Text="button1" Style="{StaticResource circleButton}"></Button>
+        <Button Text="button1" Style="{StaticResource roundedButton}"></Button>
+        <Button Text="button1" Style="{StaticResource squareButton}"></Button>
+    </StackLayout>
+
+</ContentPage>
