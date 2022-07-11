@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\bin\Debug\netstandard2.0\MVVMColorPalatte.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\bin\Debug\netstandard2.0\MVVMColorPalatte.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\bin\Debug\netstandard2.0\MVVMColorPalatte.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\MVVMColorPalatte.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\MVVMColorPalatte.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\MVVMColorPalatte.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\MVVMColorPalatte.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\MVVMColorPalatte.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\MVVMColorPalatte.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\refint\MVVMColorPalatte.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\MVVMColorPalatte.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MvvmProjectIntro\MVVMColorPalatte\MVVMColorPalatte\obj\Debug\netstandard2.0\ref\MVVMColorPalatte.dll

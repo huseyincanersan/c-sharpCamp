@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:vm="clr-namespace:MVVMColorPalatte.ViewModels"
+             x:Class="MVVMColorPalatte.Views.MainPage">
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel></vm:MainPageViewModel>
+    </ContentPage.BindingContext>
+
+
+    <ContentPage.Content>
+        <StackLayout>
+            <BoxView Color="{Binding Color}" VerticalOptions="FillAndExpand"></BoxView>
+            
+            <Label Text="{Binding Red}" HorizontalOptions="Center"></Label>
+            <Slider Value="{Binding Red}" Maximum="255" Minimum="0" ></Slider>
+            
+            <Label Text="{Binding Green}" HorizontalOptions="Center"></Label>
+            <Slider Value="{Binding Green}" Maximum="255" Minimum="0" ></Slider>
+            
+            <Label Text="{Binding Blue}" HorizontalOptions="Center"></Label>
+            <Slider Value="{Binding Blue}" Maximum="255" Minimum="0" ></Slider>
+
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -4,10 +4,7 @@
              x:Class="MvvmConnectData.Views.MainPage"
              xmlns:vm="clr-namespace:MvvmConnectData.ViewModels">
 
-    <ContentPage.BindingContext>
-        <vm:MainPageViewModel>
-        </vm:MainPageViewModel>
-    </ContentPage.BindingContext>
+    
     
     <ContentPage.Content>
         <StackLayout BackgroundColor="MidnightBlue">
