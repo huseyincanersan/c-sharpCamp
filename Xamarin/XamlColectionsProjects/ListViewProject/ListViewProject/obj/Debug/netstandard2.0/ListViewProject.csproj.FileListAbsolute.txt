@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\bin\Debug\netstandard2.0\ListViewProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\bin\Debug\netstandard2.0\ListViewProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\bin\Debug\netstandard2.0\ListViewProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ListViewProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ListViewProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ListViewProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ListViewProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ListViewProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ListViewProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\refint\ListViewProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ListViewProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\ref\ListViewProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamlColectionsProjects\ListViewProject\ListViewProject\obj\Debug\netstandard2.0\Views\DetailedPage.xaml.g.cs
