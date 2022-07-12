@@ -30,5 +30,14 @@ namespace ListViewProject.Views
                 await Navigation.PushAsync(new NavigationPage(new DetailedPage(car)));
             }
         }
+
+        //async void CollectionView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        //{
+        //    Car car = ((CollectionView)sender).SelectedItem as Car;
+        //    if (car == null)
+        //        return;
+        //    await Navigation.PushAsync(new NavigationPage(new DetailedPage(car)));
+
+        //}
     }
 }

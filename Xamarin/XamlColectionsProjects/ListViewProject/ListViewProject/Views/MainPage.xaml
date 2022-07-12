@@ -2,13 +2,14 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="ListViewProject.Views.MainPage" 
-             xmlns:vm="clr-namespace:ListViewProject.ViewModels">
+             xmlns:vm="clr-namespace:ListViewProject.ViewModels"
+             Title="Admin">
 
     <ContentPage.BindingContext>
         <vm:MainPageViewModel></vm:MainPageViewModel>
     </ContentPage.BindingContext>
     
-    
+   
     <ContentPage.Content>
         <StackLayout>
             <ListView ItemsSource="{Binding CarList}" ItemSelected="ListView_ItemSelected" >
@@ -28,5 +29,51 @@
                 </ListView.ItemTemplate>
             </ListView>
         </StackLayout>
+    </ContentPage.Content> 
+    <!--
+    <ContentPage.Content>
+        <StackLayout>
+            <CollectionView ItemsSource="{Binding CarList}" SelectionMode="Single" SelectionChanged="CollectionView_SelectionChanged">
+                <CollectionView.ItemsLayout>
+                    <GridItemsLayout Orientation="Vertical" Span="2" ></GridItemsLayout>
+                </CollectionView.ItemsLayout>
+                <CollectionView.ItemTemplate>
+                    <DataTemplate>
+                        <Grid Padding="2">
+                            <Grid.RowDefinitions>
+                                <RowDefinition Height="35"></RowDefinition>
+                                <RowDefinition Height="35"></RowDefinition>
+                            </Grid.RowDefinitions>
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="70"></ColumnDefinition>
+                                <ColumnDefinition Width="140"></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+
+                            <Image Grid.RowSpan="2" Source="{Binding ImgSource}" Aspect="AspectFit" HeightRequest="60" WidthRequest="60"></Image>
+                            <Label Grid.Column="1" Grid.Row="0" Text="{Binding Brand}" FontAttributes="Bold" FontSize="Large"></Label>
+                            <Label Grid.Column="1" Grid.Row="1" Text="{Binding Model}" FontAttributes="None" FontSize="Small"></Label>
+                            
+                        </Grid>
+                    </DataTemplate>
+                </CollectionView.ItemTemplate>
+            </CollectionView>
+        </StackLayout>
     </ContentPage.Content>
-</ContentPage>
+    
+    -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+</ContentPage> 
+
+    
