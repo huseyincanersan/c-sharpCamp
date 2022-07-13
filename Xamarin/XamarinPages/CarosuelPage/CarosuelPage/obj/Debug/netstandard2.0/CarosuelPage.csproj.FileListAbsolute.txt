@@ -1,0 +1,15 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\bin\Debug\netstandard2.0\CarosuelPage.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\bin\Debug\netstandard2.0\CarosuelPage.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\bin\Debug\netstandard2.0\CarosuelPage.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\CarosuelPage.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\CarosuelPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\CarosuelPage.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\CarosuelPage.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\CarosuelPage.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\CarosuelPage.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\refint\CarosuelPage.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\CarosuelPage.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\XamarinPages\CarosuelPage\CarosuelPage\obj\Debug\netstandard2.0\ref\CarosuelPage.dll

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CarosuelPage.Views.MainPage"
+              xmlns:vm="clr-namespace:CarosuelPage.ViewModels">
+    <CarouselPage.BindingContext>
+        <vm:MainPageViewModel></vm:MainPageViewModel>
+    </CarouselPage.BindingContext>
+    
+    <ContentPage>
+        
+        <StackLayout>
+            <Label Text="Welcome to Car Database"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand"
+                   FontAttributes="Bold,Italic" FontSize="48"
+                   TextColor="DarkGoldenrod"/>
+        </StackLayout>
+    </ContentPage>
+    
+    <ContentPage>
+
+        <StackLayout>
+            <ListView ItemsSource="{Binding Carlist}" SelectedItem="{Binding SelectedItem}" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding ImgSource}" WidthRequest="100" HeightRequest="100" 
+                                       BackgroundColor="Gray" Aspect="AspectFit" VerticalOptions="FillAndExpand" HorizontalOptions="Start"></Image>
+                                <StackLayout Orientation="Vertical">
+                                    <Label Text="{Binding Brand}" HorizontalOptions="Center" VerticalOptions="Start"></Label>
+                                    <Label Text="{Binding Model}" HorizontalOptions="Center" VerticalOptions="End"></Label>
+                                </StackLayout>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+                
+            </ListView>
+        </StackLayout>
+    </ContentPage>
+    
+    <ContentPage>
+
+        <StackLayout>
+            <Image HeightRequest="200" WidthRequest="200" HorizontalOptions="CenterAndExpand" Aspect="AspectFit" Source="{Binding SelectedItem.ImgSource}"></Image>
+            <Label Text="{Binding SelectedItem.Model}" FontAttributes="Bold" FontSize="Large"></Label>
+            <Label Text="{Binding SelectedItem.Year}"  FontSize="Medium"></Label>
+            <Label Text="{Binding SelectedItem.Details}"  FontSize="Small"></Label>
+        </StackLayout>
+    </ContentPage>
+    
+</CarouselPage>
