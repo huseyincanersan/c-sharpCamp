@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MasterPageProject.Views.MainPage"
+                  xmlns:views="clr-namespace:MasterPageProject.Views">
+
+
+    <MasterDetailPage.Master>
+        <ContentPage Title="Menu" BackgroundColor="LightCyan" Padding="10">
+            <StackLayout Margin="10" Orientation="Vertical">
+                <Image x:Name="profilImage"></Image>
+                <ListView x:Name="menuList" ItemSelected="menuList_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <StackLayout Orientation="Horizontal">
+                                    <Image Source="{Binding Icon}" WidthRequest="60" HeightRequest="60" Aspect="AspectFit"></Image>
+                                    <Label Text="{Binding Title}" FontSize="18" FontAttributes="Bold" VerticalOptions="Center" HorizontalOptions="Start" 
+                                           HorizontalTextAlignment="Center"></Label>
+                                    <Label Text="{Binding Detail}" VerticalOptions="Center" HorizontalOptions="End" HorizontalTextAlignment="End"
+                                           FontAttributes="Italic" FontSize="12" VerticalTextAlignment="Center"></Label>
+                                </StackLayout>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ContentPage>
+        
+        
+    </MasterDetailPage.Master>
+
+    <MasterDetailPage.Detail>
+        <NavigationPage>
+
+            <x:Arguments>
+                <views:CarsPage></views:CarsPage>
+            </x:Arguments>
+
+        </NavigationPage>
+
+    </MasterDetailPage.Detail>
+    
+    
+    
+</MasterDetailPage>

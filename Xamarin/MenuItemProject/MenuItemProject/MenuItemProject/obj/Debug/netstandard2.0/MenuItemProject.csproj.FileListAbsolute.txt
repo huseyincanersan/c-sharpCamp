@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\Views\EditPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\bin\Debug\netstandard2.0\MenuItemProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\bin\Debug\netstandard2.0\MenuItemProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\bin\Debug\netstandard2.0\MenuItemProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\refint\MenuItemProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\ref\MenuItemProject.dll

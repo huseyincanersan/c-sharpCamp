@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nigN1ZT4YefYPQNL4tUml0nK23/oDHBBuZC3vbdfnNZPW7PVVpBPjiqLM2uCCgqFKgxjd7Q4kkozsI64v1sgaw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Can\\Desktop\\c-sharp kamp\\Xamarin\\XamarinPages\\MasterPageProject\\MasterPageProject.iOS\\MasterPageProject.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Can\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\Can\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

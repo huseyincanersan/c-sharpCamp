@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MenuItemProject.Views.MainPage"
+             xmlns:vm="clr-namespace:MenuItemProject.ViewModels"
+             x:Name="contentPage"
+             Title="{Binding CarList.Count}">
+
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel></vm:MainPageViewModel>
+    </ContentPage.BindingContext>
+    
+    
+    <ContentPage.Content>
+        <StackLayout>
+            <ListView ItemsSource="{Binding CarList}" HasUnevenRows="True" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+
+                        <ViewCell>
+                            <ViewCell.ContextActions>
+                                <MenuItem Text="Delete" Command="{Binding Source={x:Reference contentPage}, Path=BindingContext.DeleteCommand}"
+                                          CommandParameter="{Binding .}"></MenuItem>
+                                <MenuItem Text="Edit"></MenuItem>
+                            </ViewCell.ContextActions>
+
+                            <StackLayout Orientation="Horizontal">
+                                <Image Source="{Binding ImgSource}" WidthRequest="100" HeightRequest="100" BackgroundColor="Gray" Aspect="AspectFit"
+                                       VerticalOptions="FillAndExpand" HorizontalOptions="Start"></Image>
+                                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand">
+                                    <Label Text="{Binding Brand}" HorizontalOptions="Center" VerticalOptions="Start"></Label>
+                                    <Label Text="{Binding Model}" HorizontalOptions="Center" VerticalOptions="End"></Label>
+                                </StackLayout>
+                            </StackLayout>
+
+
+                        </ViewCell>
+
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
+
+
