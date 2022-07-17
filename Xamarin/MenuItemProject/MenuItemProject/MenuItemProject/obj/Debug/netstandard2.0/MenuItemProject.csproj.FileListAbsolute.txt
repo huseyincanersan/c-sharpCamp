@@ -14,3 +14,4 @@ C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuIt
 C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\refint\MenuItemProject.dll
 C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\MenuItemProject.pdb
 C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\ref\MenuItemProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MenuItemProject\MenuItemProject\MenuItemProject\obj\Debug\netstandard2.0\Views\AddCarPage.xaml.g.cs

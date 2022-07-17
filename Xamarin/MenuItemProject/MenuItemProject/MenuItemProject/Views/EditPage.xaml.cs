@@ -1,4 +1,6 @@
-﻿using System;
+﻿using MenuItemProject.Models;
+using MenuItemProject.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,9 +14,10 @@ namespace MenuItemProject.Views
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class EditPage : ContentPage
     {
-        public EditPage()
+        public EditPage(Car car)
         {
             InitializeComponent();
+            BindingContext = new EditPageModel(car);
         }
     }
 }

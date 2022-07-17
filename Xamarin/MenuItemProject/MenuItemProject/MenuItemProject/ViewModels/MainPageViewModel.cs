@@ -7,6 +7,7 @@ using System.Text;
 using System.Windows.Input;
 using MenuItemProject.Models;
 using MenuItemProject.Service;
+using MenuItemProject.Views;
 using Xamarin.Forms;
 
 namespace MenuItemProject.ViewModels
@@ -15,6 +16,8 @@ namespace MenuItemProject.ViewModels
     {
         ObservableCollection<Car> carList;
         ICommand deleteCommand;
+        ICommand editCommand;
+        ICommand addCommand;
 
         public ObservableCollection<Car> CarList
         {
@@ -26,6 +29,8 @@ namespace MenuItemProject.ViewModels
         }
 
         public ICommand DeleteCommand { get => deleteCommand; set => deleteCommand = value; }
+        public ICommand EditCommand { get => editCommand; set => editCommand = value; }
+        public ICommand AddCommand { get => addCommand; set => addCommand = value; }
 
         public event PropertyChangedEventHandler PropertyChanged;
 
@@ -34,8 +39,31 @@ namespace MenuItemProject.ViewModels
         {
             CarList = new ObservableCollection<Car>(ListCreator.getCars());
             DeleteCommand = new Command<Car>(deleteFunction);
+            EditCommand = new Command<Car>(editFunction);
+            AddCommand = new Command(addFunction);
+
+            MessagingCenter.Subscribe<string, string>("MainPage", "EditMessage",MessageFuntion);
+            MessagingCenter.Subscribe<string, string>("MainPage", "AddMessage",AddMessageFuntion);
 
 
+        }
+
+        async void MessageFuntion(string sender,string arg)
+        {
+            if (arg.Equals("ok"))
+            {
+                CarList = new ObservableCollection<Car>(ListCreator.CarList);
+                await App.Current.MainPage.DisplayAlert("Message", "Kaydedildi", "Ok");
+            }
+        }
+
+        async void AddMessageFuntion(string sender, string arg)
+        {
+            if (arg.Equals("ok"))
+            {
+                CarList = new ObservableCollection<Car>(ListCreator.CarList);
+                await App.Current.MainPage.DisplayAlert("Message", "Kayit tamamlandi", "ok");
+            }
         }
 
         public void deleteFunction(Car c)
@@ -43,6 +71,17 @@ namespace MenuItemProject.ViewModels
            ListCreator.CarList.Remove(c);
             CarList = new ObservableCollection<Car>(ListCreator.CarList);
             App.Current.MainPage.DisplayAlert("Oops","Arac Silindi"+c.Brand ,"Ok!!");
+        }
+
+        async void editFunction(Car c)
+        {
+            
+            await App.Current.MainPage.Navigation.PushAsync(new NavigationPage(new EditPage(c)));
+        }
+
+        async void addFunction()
+        {
+            await App.Current.MainPage.Navigation.PushAsync(new NavigationPage(new AddCarPage()));
         }
 
         protected virtual void OnPropertyChanged(string propertyName)

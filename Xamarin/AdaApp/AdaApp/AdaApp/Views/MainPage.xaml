@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AdaApp.Views.MainPage"
+             xmlns:vm="clr-namespace:AdaApp.ViewModels">
+
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel></vm:MainPageViewModel>
+    </ContentPage.BindingContext>
+    
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="MidnightBlue">
+            <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <Image VerticalOptions="Center" Source="{Binding ImgSource}" HorizontalOptions="Center" WidthRequest="200" HeightRequest="200" BackgroundColor="CornflowerBlue"></Image>
+                <Entry TextColor="AliceBlue" Text="{Binding Username}" PlaceholderColor="CornflowerBlue" Placeholder="UserName" WidthRequest="250" VerticalOptions="Center" HorizontalOptions="Center"></Entry>
+                <Entry TextColor="AliceBlue" Text="{Binding Password}" PlaceholderColor="CornflowerBlue" Placeholder="Password" IsPassword="True" WidthRequest="250" VerticalOptions="Center" HorizontalOptions="Center"></Entry>
+
+                <Button Text="Login" Command="{Binding LoginCommand}" BackgroundColor="CornflowerBlue"></Button>
+                <Button Text="SignUp" Command="{Binding SignUpCommand}" BackgroundColor="CornflowerBlue"></Button>
+                <Label TextColor="LightSkyBlue" Text="{Binding LoginStatus}" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center"></Label>
+            </StackLayout>
+           
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

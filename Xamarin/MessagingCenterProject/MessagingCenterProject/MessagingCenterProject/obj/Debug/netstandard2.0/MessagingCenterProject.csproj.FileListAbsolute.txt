@@ -1,0 +1,16 @@
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\bin\Debug\netstandard2.0\MessagingCenterProject.deps.json
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\bin\Debug\netstandard2.0\MessagingCenterProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\bin\Debug\netstandard2.0\MessagingCenterProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\MessagingCenterProject.csproj.AssemblyReference.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\MessagingCenterProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\Views\Page1.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\MessagingCenterProject.AssemblyInfoInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\MessagingCenterProject.AssemblyInfo.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\MessagingCenterProject.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\MessagingCenterProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\refint\MessagingCenterProject.dll
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\MessagingCenterProject.pdb
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\MessagingCenterProject\MessagingCenterProject\MessagingCenterProject\obj\Debug\netstandard2.0\ref\MessagingCenterProject.dll

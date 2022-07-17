@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RestFulProject.Views.MainPage"
+             xmlns:vm="clr-namespace:RestFulProject.ViewModels">
+    <ContentPage.BindingContext>
+        <vm:MainPageViewModel></vm:MainPageViewModel>
+    </ContentPage.BindingContext>
+    
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="MidnightBlue">
+            <StackLayout Orientation="Vertical" VerticalOptions="CenterAndExpand" HorizontalOptions="CenterAndExpand">
+                <Image Source="{Binding ImgSource}" VerticalOptions="Center" HorizontalOptions="Center" WidthRequest="200" HeightRequest="200" BackgroundColor="CornflowerBlue"></Image>
+                <Entry Text="{Binding Username}" Placeholder="Username" WidthRequest="250" VerticalOptions="Center" HorizontalOptions="Center" TextColor="AliceBlue"
+                       PlaceholderColor="CornflowerBlue"></Entry>
+                <Entry Text="{Binding Password}" Placeholder="Password" IsPassword="True" WidthRequest="250" VerticalOptions="Center" HorizontalOptions="Center" TextColor="AliceBlue"
+                       PlaceholderColor="CornflowerBlue"></Entry>
+
+
+                <Button Text="Login" BackgroundColor="CornflowerBlue" Command="{Binding LoginCommand}"></Button>
+                <Button Text="SignUp" BackgroundColor="CornflowerBlue" Command="{Binding SignUpCommand}"></Button>
+                <Label Text="{Binding LoginStatus}" TextColor="LightSkyBlue" FontSize="Medium" FontAttributes="Bold" HorizontalOptions="Center"></Label>
+            </StackLayout>            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

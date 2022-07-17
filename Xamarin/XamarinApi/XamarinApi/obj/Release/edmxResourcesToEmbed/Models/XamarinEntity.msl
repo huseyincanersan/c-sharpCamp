@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="XamarinDatabaseModelStoreContainer" CdmEntityContainer="XamarinDatabaseEntities1">
+    <EntitySetMapping Name="USER">
+      <EntityTypeMapping TypeName="XamarinDatabaseModel.USER">
+        <MappingFragment StoreEntitySet="USER">
+          <ScalarProperty Name="USERNAME" ColumnName="USERNAME" />
+          <ScalarProperty Name="USERID" ColumnName="USERID" />
+          <ScalarProperty Name="NAME" ColumnName="NAME" />
+          <ScalarProperty Name="SURNAME" ColumnName="SURNAME" />
+          <ScalarProperty Name="IMAGE" ColumnName="IMAGE" />
+          <ScalarProperty Name="PASSWORD" ColumnName="PASSWORD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="POLICY">
+      <EntityTypeMapping TypeName="XamarinDatabaseModel.POLICY">
+        <MappingFragment StoreEntitySet="POLICY">
+          <ScalarProperty Name="COMPANYNAME" ColumnName="COMPANYNAME" />
+          <ScalarProperty Name="POLICYTIP" ColumnName="POLICYTIP" />
+          <ScalarProperty Name="POLICYID" ColumnName="POLICYID" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

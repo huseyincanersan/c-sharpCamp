@@ -3,13 +3,20 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="MenuItemProject.Views.MainPage"
              xmlns:vm="clr-namespace:MenuItemProject.ViewModels"
-             x:Name="contentPage"
-             Title="{Binding CarList.Count}">
+             x:Name="contentPage">
 
 
     <ContentPage.BindingContext>
         <vm:MainPageViewModel></vm:MainPageViewModel>
     </ContentPage.BindingContext>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add Car" Order="Primary" Priority="0" Command="{Binding AddCommand}"></ToolbarItem>
+
+        <ToolbarItem Text="Setting" Order="Primary" Priority="1"></ToolbarItem>
+
+        <ToolbarItem Text="About Us" Order="Primary" Priority="2"></ToolbarItem>
+    </ContentPage.ToolbarItems>
     
     
     <ContentPage.Content>
@@ -22,7 +29,8 @@
                             <ViewCell.ContextActions>
                                 <MenuItem Text="Delete" Command="{Binding Source={x:Reference contentPage}, Path=BindingContext.DeleteCommand}"
                                           CommandParameter="{Binding .}"></MenuItem>
-                                <MenuItem Text="Edit"></MenuItem>
+                                <MenuItem Text="Edit" Command="{Binding Source={x:Reference contentPage},Path=BindingContext.EditCommand}"
+                                          CommandParameter="{Binding .}"></MenuItem>
                             </ViewCell.ContextActions>
 
                             <StackLayout Orientation="Horizontal">
@@ -30,7 +38,8 @@
                                        VerticalOptions="FillAndExpand" HorizontalOptions="Start"></Image>
                                 <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand">
                                     <Label Text="{Binding Brand}" HorizontalOptions="Center" VerticalOptions="Start"></Label>
-                                    <Label Text="{Binding Model}" HorizontalOptions="Center" VerticalOptions="End"></Label>
+                                    <Label Text="{Binding Model}" HorizontalOptions="Center" VerticalOptions="Center"></Label>
+                                    <Label Text="{Binding Year}"  HorizontalOptions="Center" VerticalOptions="End"></Label>
                                 </StackLayout>
                             </StackLayout>
 
