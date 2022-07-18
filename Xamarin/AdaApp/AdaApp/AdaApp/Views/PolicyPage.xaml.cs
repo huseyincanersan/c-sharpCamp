@@ -1,4 +1,6 @@
-﻿using System;
+﻿using AdaApp.Models;
+using AdaApp.ViewModels;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -15,6 +17,12 @@ namespace AdaApp.Views
         public PolicyPage()
         {
             InitializeComponent();
+        }
+
+        public PolicyPage(USER u)
+        {
+            InitializeComponent();
+            BindingContext = new PolicyPageViewModel(u);
         }
     }
 }

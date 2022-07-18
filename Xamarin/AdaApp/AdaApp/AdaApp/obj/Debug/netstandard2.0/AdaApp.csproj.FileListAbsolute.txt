@@ -19,3 +19,5 @@ C:\Users\Can\Desktop\c-sharp kamp\Xamarin\AdaApp\AdaApp\AdaApp\bin\Debug\netstan
 C:\Users\Can\Desktop\c-sharp kamp\Xamarin\AdaApp\AdaApp\AdaApp\obj\Debug\netstandard2.0\AdaApp.csproj.CopyComplete
 C:\Users\Can\Desktop\c-sharp kamp\Xamarin\AdaApp\AdaApp\AdaApp\obj\Debug\netstandard2.0\Views\SignUp.xaml.g.cs
 C:\Users\Can\Desktop\c-sharp kamp\Xamarin\AdaApp\AdaApp\AdaApp\obj\Debug\netstandard2.0\Views\PolicyPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\AdaApp\AdaApp\AdaApp\obj\Debug\netstandard2.0\Views\AddPolicyPage.xaml.g.cs
+C:\Users\Can\Desktop\c-sharp kamp\Xamarin\AdaApp\AdaApp\AdaApp\obj\Debug\netstandard2.0\Controls\PolicyControl.xaml.g.cs

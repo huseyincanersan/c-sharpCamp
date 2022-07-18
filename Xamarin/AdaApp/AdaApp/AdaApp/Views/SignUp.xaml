@@ -2,7 +2,15 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AdaApp.Views.SignUp"
+             xmlns:trg="clr-namespace:AdaApp.Triggers"
+             xmlns:cnv="clr-namespace:AdaApp.Converters"
              xmlns:vm="clr-namespace:AdaApp.ViewModels">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <cnv:ColortoBoolConverter x:Key="colorToBoolConverter"></cnv:ColortoBoolConverter>
+        </ResourceDictionary>
+    </ContentPage.Resources>
 
     <ContentPage.BindingContext>
         <vm:SignUpViewModel></vm:SignUpViewModel>
@@ -18,9 +26,16 @@
                 <Entry Placeholder="UserName" Text="{Binding Username}" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"></Entry>
                 <Entry Placeholder="Name" Text="{Binding Name}" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"></Entry>
                 <Entry Placeholder="Surname" Text="{Binding Surname}" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"></Entry>
-                <Entry Placeholder="Password" Text="{Binding Password}" IsPassword="True" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"></Entry>
-                <Entry Placeholder="Password" Text="" VerticalOptions="Center" IsPassword="True" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"></Entry>
-                <Button Text="SignUp" Command="{Binding SignUpCommand}"></Button>
+                <Entry Placeholder="Password" Text="{Binding Password}" x:Name="firsPassword" IsPassword="True" VerticalOptions="Center" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue"></Entry>
+                <Entry Placeholder="Password" Text="" VerticalOptions="Center" x:Name="secondPasssword" IsPassword="True" HorizontalOptions="FillAndExpand" TextColor="AliceBlue" PlaceholderColor="CornflowerBlue">
+                    <Entry.Triggers>
+                        <EventTrigger Event="TextChanged">
+                            <trg:PasswordTrigger FirstPassword="{x:Reference firsPassword}"></trg:PasswordTrigger>
+                        </EventTrigger>
+                    </Entry.Triggers>
+                </Entry>
+                <Button Text="SignUp" Command="{Binding SignUpCommand}" 
+                        IsEnabled="{Binding Source={x:Reference secondPasssword}, Path=TextColor, Converter={StaticResource colorToBoolConverter}}"></Button>
                 
                 
                 

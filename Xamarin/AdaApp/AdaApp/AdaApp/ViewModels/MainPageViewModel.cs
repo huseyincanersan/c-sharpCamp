@@ -26,7 +26,7 @@ namespace AdaApp.ViewModels
 
         public async void signUpFunction()
         {
-            await App.Current.MainPage.Navigation.PushAsync(new NavigationPage(new SignUp()));
+            await App.Current.MainPage.Navigation.PushAsync(new SignUp());
         }
 
         public async void loginFunction()
@@ -39,7 +39,7 @@ namespace AdaApp.ViewModels
             else
             {
                 LoginStatus = "Oturum Acma Basarili"+u.NAME;
-                 await App.Current.MainPage.Navigation.PushAsync(new NavigationPage(new PolicyPage()));
+                 await App.Current.MainPage.Navigation.PushAsync(new PolicyPage(u));
             }
         }
 

@@ -1,12 +1,46 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="AdaApp.Views.PolicyPage">
+             x:Class="AdaApp.Views.PolicyPage"
+             xmlns:controls="clr-namespace:AdaApp.Controls"
+             x:Name="contentPage">
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="Add Policy" Order="Primary" Priority="0" Command="{Binding AddPolicyCommand}"></ToolbarItem>
+    </ContentPage.ToolbarItems>
+    
+    
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <StackLayout VerticalOptions="Start" HorizontalOptions="FillAndExpand" HeightRequest="100" BackgroundColor="AliceBlue">
+                <StackLayout Orientation="Vertical">
+                    <Label Text="{Binding User.USERNAME}" FontSize="24" FontAttributes="Bold" ></Label>
+                    <StackLayout Orientation="Horizontal">
+                        <Label Text="{Binding User.NAME}" FontSize="24" FontAttributes="Bold" ></Label>
+                        <Label Text="{Binding User.SURNAME}" FontSize="24" FontAttributes="Bold" ></Label>
+                    </StackLayout>
+                </StackLayout>
+            </StackLayout>
+
+            <ScrollView>
+            <StackLayout VerticalOptions="FillAndExpand" HorizontalOptions="FillAndExpand" BackgroundColor="DarkBlue">
+                    <ListView HasUnevenRows="True" ItemsSource="{Binding PolicyList}">
+                        <ListView.ItemTemplate>
+                            <DataTemplate>
+                                <ViewCell>
+                                    <ViewCell.ContextActions>
+                                        <MenuItem Text="Delete" Command="{Binding Source={x:Reference contentPage}, Path=BindingContext.RemovePolicyCommand}"
+                                                  CommandParameter="{Binding .}"></MenuItem>
+                                    </ViewCell.ContextActions>
+
+                                    <controls:PolicyControl PolicyTipText="{Binding POLICYTIP}" CompanyNameText="{Binding COMPANYNAME}" ></controls:PolicyControl>
+                                </ViewCell>
+                            </DataTemplate>
+                        </ListView.ItemTemplate>
+                    </ListView>
+            </StackLayout>
+            </ScrollView>
+
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

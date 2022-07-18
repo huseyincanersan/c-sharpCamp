@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AdaApp.Views.AddPolicyPage"
+             xmlns:vm="clr-namespace:AdaApp.ViewModels">
+
+    <ContentPage.BindingContext>
+        <vm:AddPolicyViewModel></vm:AddPolicyViewModel>
+    </ContentPage.BindingContext>
+    
+    
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="MidnightBlue">
+            <ScrollView>
+                <StackLayout Orientation="Vertical" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand">
+                    <Entry Placeholder="Policy Tip" Text="{Binding PolicyTip}" TextColor="White" PlaceholderColor="CornflowerBlue" HorizontalOptions="FillAndExpand"></Entry>
+                    <Entry Placeholder="Company Name" Text="{Binding CompanyName}" TextColor="White" PlaceholderColor="CornflowerBlue" HorizontalOptions="FillAndExpand"></Entry>
+
+                    <Button Text="Save" Command="{Binding AddCommand}"></Button>
+                </StackLayout>
+            </ScrollView>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
